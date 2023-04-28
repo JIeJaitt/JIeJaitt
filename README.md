@@ -5,8 +5,6 @@ Hi there 👋 I go by JIeJaitt. Typical usernames include JIeJaitt or HuangYingJ
 
 ###   Commit Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIeJaitt&layout=compact&theme=dark">
-
 <a href="https://github.com/cookieY/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true">
 </a>
