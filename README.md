@@ -1,6 +1,6 @@
 ###   Activity Graph
 
-https://github-readme-streak-stats.herokuapp.com/?user=JIeJaitt&theme=vue&hide_border=true
+![](https://github-readme-streak-stats.herokuapp.com/?user=JIeJaitt&theme=vue&hide_border=true)
 
 
 ###   Commit Stats
@@ -12,3 +12,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=JIeJaitt&theme=vue&hide_b
 ###   Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JIeJaitt&layout=compact&theme=dark)
+
+### Visit count (since 23 Feb 2023):
+
+![](https://count.getloli.com/get/@JIeJaitt?theme=moebooru)
