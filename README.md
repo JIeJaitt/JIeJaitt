@@ -1,6 +1,6 @@
 ###   Activity Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=JIeJaitt&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+https://github-readme-streak-stats.herokuapp.com/?user=JIeJaitt&theme=vue&hide_border=true
 
 
 ###   Commit Stats
