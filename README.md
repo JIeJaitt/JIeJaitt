@@ -1,8 +1,13 @@
-Hi there 👋 I go by JIeJaitt. Typical usernames include JIeJaitt or HuangYingJie.
+Hi there 👋 I go by `黄英捷`. Typical usernames include `jiejaitt` or `huangyj`. The left-hand side of my GitHub profile contains information to contact me.
 
-- Addicted to GO language and unable to extricate oneself.
-- Open source maniac,projects include :
-- email: <a href="mailto:498938874@qq.com">498938874@qq.com</a>
+- 🌱 I have a blog, opensource-contributions, a resume, a research profile, an arXiv profile, and a codewars profile.
+- 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
+  - [Video-Server](https://github.com/JIeJaitt/video-server)
+  - [httprouter-source-code-commentary-reading-notes-self](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
+- ⚡ Fun fact: I'm a big fan of [animes](https://jiejaitt.gitee.io/), and You can see the latest anime through my [anime navigation website](https://jiejaitt.gitee.io/).
+- 📝 I regularly write articles on [my blog](https://github.com/jiejaitt).
+- 📫 How to reach me: [Email](mailto:498938874@qq.com).
+- 💬 Future: I will continue to learn and improve my skills, and I will also share my learning experience and experience in the form of articles on my Github.
 
 ### Commit Stats
 
