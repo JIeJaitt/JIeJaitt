@@ -1,18 +1,7 @@
-###   Activity Graph
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JIeJaitt&theme=vue&hide_border=true)
-
-
 ###   Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true)
+<img alt="" height="137px" src="https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true"><img alt="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIeJaitt&layout=compact&theme=dark">
 
-![](https://github-profile-trophy.vercel.app/?username=JIeJaitt&theme=radical&row=1)
-
-###   Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JIeJaitt&layout=compact&theme=dark)
-
-### Visit count (since 23 Feb 2023):
+### Visit Friends (since 28 April 2023):
 
 ![](https://count.getloli.com/get/@JIeJaitt?theme=moebooru)
