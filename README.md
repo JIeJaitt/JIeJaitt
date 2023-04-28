@@ -1,6 +1,6 @@
-Hi there 👋 I go by `黄英捷`. Typical usernames include `jiejaitt` or `huangyj`. The left-hand side of my GitHub profile contains information to contact me.
+Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `HuangYingJie`. The left-hand side of my GitHub profile contains information to contact me.
 
-- 🌱 I have a blog, opensource-contributions, a resume, a research profile, an arXiv profile, and a codewars profile.
+- 🌱 I am thinking about what to write (, and I will frequently revise the following content) ...
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
   - [Video-Server](https://github.com/JIeJaitt/video-server)
   - [httprouter-source-code-commentary-reading-notes-self](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
