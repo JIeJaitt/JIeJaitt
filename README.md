@@ -11,7 +11,7 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 
 ### Commit Stats
 
-<a href="https://github.com/cookieY/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=JIeJaitt&count_private=true&show_icons=true&theme=radical&show_owner=true" alt="">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
