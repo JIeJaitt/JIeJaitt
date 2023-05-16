@@ -3,8 +3,8 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 - 🌱 I am thinking about what to write (, and I will frequently revise the following content) ...
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
   - [stmsrv](https://github.com/JIeJaitt/stmsrv)
-  - [Video-Server](https://github.com/JIeJaitt/video-server)
-  - [httprouter-source-code-commentary-reading-notes-self](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
+  - [blogin](https://github.com/JIeJaitt/blogweb-gin)
+  - [readcc](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
 - ⚡ Fun fact: I'm a big fan of [animes](https://jiejaitt.gitee.io/), and You can see the latest anime through my [anime navigation website](https://jiejaitt.gitee.io/).
 - 📝 I regularly write articles on [my blog](https://github.com/jiejaitt).
 - 📫 How to reach me: [Email](mailto:498938874@qq.com).
