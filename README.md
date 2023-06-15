@@ -22,5 +22,5 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 
 ### Visit Friends (since 28 April 2023):
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://count.getloli.com/get/@JIeJaitt?theme=rule34"  alt=""/>
+    <img height=180 src="https://count.getloli.com/get/@JIeJaitt?theme=gelbooru"  alt=""/>
 </a>
