@@ -7,7 +7,7 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
   - [readcc](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
 - ⚡ Fun fact: I'm a big fan of [animes](https://jiejaitt.gitee.io/), and You can see the latest anime through my [anime navigation website](https://jiejaitt.gitee.io/).
 - 📝 I regularly write articles on [my blog](https://github.com/jiejaitt).
-- 📫 How to reach me: [Email](mailto:498938874@qq.com).
+- 📫 How to reach me: [Email](mailto:jiejaitt@qq.com).
 - 💬 Future: I will continue to learn and improve my skills, and I will also share my learning experience and experience in the form of articles on my Github.
 
 ### Commit Stats
