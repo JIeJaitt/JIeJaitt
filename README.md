@@ -2,6 +2,7 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 
 - 🌱 I am thinking about what to write (, and I will frequently revise the following content) ...
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
+  - [goDistributed-Object-storage](https://github.com/JIeJaitt/goDistributed-Object-storage)
   - [stmsrv](https://github.com/JIeJaitt/stmsrv)
   - [blogin](https://github.com/JIeJaitt/blogweb-gin)
   - [readcc](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
