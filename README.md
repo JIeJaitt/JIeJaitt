@@ -25,3 +25,9 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 src="https://count.getloli.com/get/@JIeJaitt?theme=gelbooru"  alt=""/>
 </a>
+
+## Recent Activities
+
+（Construction...）
+Recent pr
+Recent issue
