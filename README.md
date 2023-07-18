@@ -4,7 +4,7 @@ Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `Huan
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
   - [goDistributed-Object-storage](https://github.com/JIeJaitt/goDistributed-Object-storage)
   - [goStreaming-on-demand-services](https://github.com/JIeJaitt/goStreaming-on-demand-services)
-  - [blogin](https://github.com/JIeJaitt/blogweb-gin)
+  - [authset](https://github.com/opsets/authset)
   - [readcc](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
 - ⚡ Fun fact: I'm a big fan of [animes](https://jiejaitt.gitee.io/), and You can see the latest anime through my [anime navigation website](https://jiejaitt.gitee.io/).
 - 📝 I regularly write articles on [my blog](https://jiejaitt.github.io).
