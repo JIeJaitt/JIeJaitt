@@ -1,4 +1,4 @@
-Hi there 👋 I go by `黄英捷`. Typical usernames include `JIeJaitt` or `HuangYingJie`. The left-hand side of my GitHub profile contains information to contact me.
+Hi there 👋 I go by `JIeJaitt` or `Huang Yingjie`. The left-hand side of my GitHub profile contains information to contact me.
 
 - 🌱 I am thinking about what to write (, and I will frequently revise the following content) ...
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
