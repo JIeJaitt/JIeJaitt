@@ -5,7 +5,7 @@ Hi there 👋 I go by `JIeJaitt` or `Huang Yingjie`. The left-hand side of my Gi
   - [goDistributed-Object-storage](https://github.com/JIeJaitt/goDistributed-Object-storage)
   - [goStreaming-on-demand-services](https://github.com/JIeJaitt/goStreaming-on-demand-services)
   - [authset](https://github.com/opsets/authset)
-  - [readcc](https://github.com/JIeJaitt/httprouter-source-code-commentary-reading-notes-self)
+  - [osproxy](https://github.com/qinguoyi/osproxy)
 - ⚡ Fun fact: I'm a big fan of [animes](https://jiejaitt.gitee.io/), and You can see the latest anime through my [anime navigation website](https://jiejaitt.gitee.io/).
 - 📝 I regularly write articles on [my blog](https://jiejaitt.github.io).
 - 📫 How to reach me: [Email](mailto:jiejaitt@qq.com).
