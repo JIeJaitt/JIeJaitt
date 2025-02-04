@@ -2,6 +2,7 @@ Hi there 👋 I go by `JIeJaitt` or `Huang Yingjie`. The left-hand side of my Gi
 
 - 🌱 I am thinking about what to write (, and I will frequently revise the following content) ...
 - 🔭 I'm currently learning [Go language ](https://go.dev/) and actively researching and participating in related open-source projects：
+  - [fiber](https://github.com/gofiber/fiber)
   - [goDistributed-Object-storage](https://github.com/JIeJaitt/goDistributed-Object-storage)
   - [goStreaming-on-demand-services](https://github.com/JIeJaitt/goStreaming-on-demand-services)
   - [authset](https://github.com/opsets/authset)
